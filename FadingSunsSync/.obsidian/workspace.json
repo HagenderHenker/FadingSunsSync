@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "86538c3ec2069d69",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Personen/Jenn Spader.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Factions/Reeves.md",
+                "file": "Personen/Jenn Spader.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Factions/Reeves.md",
+                "file": "Personen/Jenn Spader.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Factions/Reeves.md"
+                "file": "Personen/Jenn Spader.md"
               }
             }
           }
@@ -146,12 +159,13 @@
       "command-palette:Befehlspalette öffnen": false
     }
   },
-  "active": "0c3facb15c7f465a",
+  "active": "86538c3ec2069d69",
   "lastOpenFiles": [
+    "Factions/Reeves.md",
+    "Personen/Jenn Spader.md",
     "Factions",
     "Campaign",
     "Personen",
-    "Orte",
-    "Factions/Reeves.md"
+    "Orte"
   ]
 }
